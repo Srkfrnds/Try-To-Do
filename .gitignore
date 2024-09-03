@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+package-lock.json
+yarn.lock
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
